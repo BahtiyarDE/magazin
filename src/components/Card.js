@@ -13,7 +13,7 @@ const Card = ({product}) => {
                     <p className="text-gray-700 text-base">
                         {product.description}
                     </p>
-                    g
+
                 </div>
                 <div>
                     <FontAwesomeIcon icon="fa-solid fa-bag-shopping" />
